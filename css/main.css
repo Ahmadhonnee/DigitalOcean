@@ -587,7 +587,11 @@ footer {
     justify-content: space-between;
     padding: 0 100px;
 }
-
+.footer__logo {
+    content: url(../img/LOGO.png);
+    width: 69px;
+    height: 69px;
+}
 .footer__list {
     max-width: 260px;
 }
